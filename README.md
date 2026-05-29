@@ -1,4 +1,4 @@
-# 🎓 CoralStudy AI
+# 🎓 Study Planner
 
 An AI-powered Study Planner Agent built for the **Pirates of the Coral-Bean Hackathon** by WeMakeDevs.
 
@@ -6,9 +6,9 @@ CoralStudy AI helps students organize assignments, notes, schedules, deadlines, 
 
 ---
 
-# 🚀 Features
+# Features
 
-## 📚 Assignment Management
+## Assignment Management
 
 * Add assignments with:
 
@@ -18,7 +18,7 @@ CoralStudy AI helps students organize assignments, notes, schedules, deadlines, 
   * Priority
   * Notes
 
-## 🤖 AI Study Assistant
+## AI Study Assistant
 
 Ask questions like:
 
@@ -27,7 +27,7 @@ Ask questions like:
 * How many pending assignments?
 * Which tasks are completed?
 
-## 🧠 AI Study Recommendation
+## AI Study Recommendation
 
 The system intelligently recommends which task should be completed first based on:
 
@@ -35,25 +35,25 @@ The system intelligently recommends which task should be completed first based o
 * Time
 * Priority
 
-## ✅ Task Status Tracking
+## Task Status Tracking
 
 * Pending Tasks
 * Completed Tasks
 * Mark tasks as completed permanently
 
-## ⏰ Overdue Detection
+## Overdue Detection
 
 Automatically detects overdue assignments.
 
-## 📝 Notes Support
+## Notes Support
 
 Users can store study notes and reminders for every assignment.
 
-## 📅 Schedule Section
+## Schedule Section
 
 Displays a simple daily class schedule for better study planning.
 
-## 🪸 Coral Query Demo
+## Coral Query Demo
 
 Demonstrates Coral-inspired SQL-style querying over assignment data.
 
@@ -76,7 +76,7 @@ WHERE completed = true;
 
 ---
 
-# 🪸 How Coral Concepts Are Used
+# Coral Concepts
 
 CoralStudy AI follows Coral-inspired structured retrieval and query-based planning concepts.
 
@@ -94,7 +94,7 @@ This creates an agent-like study planning workflow inspired by Coral’s structu
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -112,7 +112,7 @@ This creates an agent-like study planning workflow inspired by Coral’s structu
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## 1️⃣ Clone Repository
 
@@ -156,7 +156,7 @@ http://localhost:5000
 
 ---
 
-# 🎥 Demo Features
+# Demo Features
 
 * Add assignments
 * Add notes
@@ -171,7 +171,6 @@ http://localhost:5000
 
 # 🔮 Future Improvements
 
-* Real Coral CLI Integration
 * Database Integration
 * Authentication System
 * Real AI APIs (Gemini/OpenAI)
@@ -180,7 +179,7 @@ http://localhost:5000
 
 ---
 
-# 🎯 Project Goal
+# Project Goal
 
 The goal of CoralStudy AI is to simplify academic workflow management using AI-assisted planning and Coral-inspired structured retrieval concepts.
 
